@@ -1,0 +1,11 @@
+
+/* Este es un selector de etiqueta */
+body {
+    background-image: url("../img/fondo.jpg");
+    font-family: sans-serif; 
+}
+
+h1 {
+    color: aquamarine;
+    text-align: center;
+}
