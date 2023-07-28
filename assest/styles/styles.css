@@ -1,10 +1,41 @@
-h1 {
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    color: #C30;
+}
+#a {
+    color: #369;
+    background-color: #FFFF00;
+}
+#primero {
+    color: #369;
+}
+
+p {
+    color: #555;
+}
+
+#primero em {
+    background-color: #FFFF00;
+    color: blue;
+}
+
+.especial {
+    color: #ffff00;
+    background-color: #000000;
+}
+.normal {
+    font-weight: bold;
+}
+/* h1 {
     font-family: 'Libre Baskerville', serif;
     text-align: center;
 }
 h2 {
     color: rgb(169, 9, 9);
-}
+} */
 
  /* div {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
@@ -12,12 +43,12 @@ h2 {
 
 } */
 /* selector etiqueta */
-div:hover {
+/* div:hover {
     background-color: olive;
 }
 a:visited{
-    color: green;
-}
+    color: green; */
+
 /* h1,
 h2, 
 h3 {
@@ -40,4 +71,4 @@ p::first-line{
 p::first-letter{
     color: purple;
 } */
- */
+ 
