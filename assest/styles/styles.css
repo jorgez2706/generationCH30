@@ -1,0 +1,43 @@
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+h2 {
+    color: rgb(169, 9, 9);
+}
+
+ /* div {
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+
+
+} */
+/* selector etiqueta */
+div:hover {
+    background-color: olive;
+}
+a:visited{
+    color: green;
+}
+/* h1,
+h2, 
+h3 {
+    font-family: "Abel", sans-serif;
+    font-size: 30px;
+}
+
+/* selector de clase */
+/* .lista{
+    color: blueviolet;
+}
+
+#listachiquis{
+    color: blue;
+}
+
+p::first-line{
+    color: red;
+}
+p::first-letter{
+    color: purple;
+} */
+ */
